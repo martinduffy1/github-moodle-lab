@@ -1,2 +1,2 @@
 $hello = "Hello World"
-echoo #hello;
+echo #hello;
